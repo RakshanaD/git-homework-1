@@ -2,3 +2,4 @@
 1. Git is a version control system that tracks changes locally. GitHub is a cloud platform that hosts Git repositories and enables collaboration.
 2. 'git add <file>' adds one file; 'git add .' adds all changes in the current folder; 'git add -A' stages all changes including deletions.
 3. 'git push' uploads local commits to GitHub. 'git pull' downloads commits from GitHub and merges them into your local branch.
+4. 'git fetch' only downloads new commits without merging them. 'git pull' does fetch + merge in one step.
